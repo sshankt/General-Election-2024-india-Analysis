@@ -1,6 +1,7 @@
 # 🗳️ Indian General Election 2024 — Data Analysis
 
 This repository contains an exploratory data analysis of the **Indian General Election 2024** dataset (sourced from Kaggle). The analysis uses **Python**, **NumPy**, **Pandas**, and **Matplotlib** to explore patterns, insights, and visualize results.
+![Project Banner](modi.png)
 
 ---
 
